@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue of Ships - Eastern Greece</title>
+            <author>
+               <persName>Homer.</persName>
+            </author>
+
+         </titleStmt>
+         <publicationStmt>
+            <ab>currently for internal use only</ab>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>Homer's_PLACELIST.xlsx</ab>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="gazetteer">
+      <body>
+         <listPlace>
+            <place xml:id="A1">
+               <placeName type="editors">Hyrie, Greece</placeName>
+               <placeName type="parsed">
+                  <region type="country">Greece</region>
+                  <settlement type="city">Hyrie</settlement>
+               </placeName>
+               <placeName key="4957003" type="toponymName">Hyrie</placeName>
+               <location type="structured">
+                  <region key="HY">Hyrie</region>
+                  <country key="GR-03">Greece</country>
+               </location>
+               <location type="point">
+                  <geo>38.400000 23.6000000</geo>
+               </location>
+               <population quantity="0"/>
+               <trait>
+                  <label>elevation</label>
+                  <desc>
+                     <measure unit="ft" quantity="81"/>
+                  </desc>
+               </trait>
+               <note type="geonames">
+                  <ptr type="Wikipedia" target="https://en.wikipedia.org/wiki/Hyria_(Boeotia)"/>
+               </note>
+               <note type="editors">Hyria (Ionic: Ὑρίη Huriē, Koine: Ὑρία Huria;[1]) is a toponym mentioned in Homer's catalogue of the ships, where the leading position in the list is given to the contingents from Boeotia, where Hyria and stony Aulis, where the fleet assembled, lead the list.[2]Peneleos, Leitus, Arcesilaus, Prothoenor and Clonius. The site was assigned to the territory of Tanagra by Strabo,[3] who is not more precise about its location, which was apparently no longer inhabited in his time. Pausanias does not mention it. Modern identifications of the site near Aulis place it near Megalo Vouno, on a mound of the coastal plain near the paralía of Drámesi. </note>
+            </place>
+            <place xml:id="A2">
+               <placeName type="editors">Schoenus, Greece</placeName>
+               <placeName type="parsed">
+                  <region type="country">Greece</region>
+                  <settlement type="city">Schoenus</settlement>
+               </placeName>
+               <placeName key="4957004" type="toponymName">Schoenus</placeName>
+               <location type="structured">
+                  <region key="SC">Schoenus</region>
+                  <country key="GR-03">Greece</country>
+               </location>
+               <location type="point">
+                  <geo>38.3222579 23.320431</geo>
+               </location>
+               <population quantity="0"/>
+               <trait>
+                  <label>elevation</label>
+                  <desc>
+                     <measure unit="ft" quantity="81"/>
+                  </desc>
+               </trait>
+               <note type="geonames">
+                  <ptr type="Perseus" target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D7%3Aentry%3Dschoenus-geo"/>
+               </note>
+               <note type="editors">Schoenus: a town in Boeotia, mentioned by Homer (Hom. Il. 2.497), and placed by Stabo upon a river of the same name in the territory of Thebes, upon the road to Anthedon, and at the distance of 50 stadia from Thebes. </note>
+            </place>
+            <place xml:id="A4">
+               <placeName type="editors">Scolus, Greece</placeName>
+               <placeName type="parsed">
+                  <region type="country">Greece</region>
+                  <settlement type="city">Scolus</settlement>
+               </placeName>
+               <placeName key="4957004" type="toponymName">Schoenus</placeName>
+               <location type="structured">
+                  <region key="SC">Scolus</region>
+                  <country key="GR-03">Greece</country>
+               </location>
+               <location type="point">
+                  <geo>38.1848828 23.250035</geo>
+               </location>
+               <population quantity="0"/>
+               <trait>
+                  <label>elevation</label>
+                  <desc>
+                     <measure unit="ft" quantity="81"/>
+                  </desc>
+               </trait>
+               <note type="geonames">
+                  <ptr type="Perseus" target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D7%3Aentry%3Dscolus-geo02"/>
+               </note>
+               <note type="editors">Scolus: a town of Boeotia, mentioned by Homer (Hom. Il. 2.497), and described by Strabo as a village of the Parasopia below Cithaeron (ix. p. 408). Pausanias, in his description of the route from Plataea to Thebes, says, that if the traveller were, instead of crossing the Asopus, to follow that river for about 40 stadia, he would arrive at the ruins of Scolus, where there was an unfinished temple of Demeter and Core (9.4.4).</note>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>

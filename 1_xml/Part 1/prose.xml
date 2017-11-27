@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The End</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Freely available teaching document</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Printer's Introduction</head>
+        <p>The printer had nothing to say.</p>
+      </div>
+    </front>
+    <body>
+      <head>The End: A Short Novel</head>
+      <div type="chapter">
+        <head>Chapter 1: The Beginning</head>
+        <p>It began.</p>
+        <p>That's what novels do.</p>
+      </div>
+      <div type="chapter">
+        <head>Chapter 2: The End</head>
+        <p>Almost before it began, the <soCalled>novel</soCalled> ended.</p>
+        <p>There was barely time for an <foreign>au revoir</foreign>.</p>
+        <p>We read it, and it was <emph>over</emph>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

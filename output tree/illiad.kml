@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   
+   <Folder>
+      <name>Catalogue of Ships - Eastern Greece</name>
+      <Folder>
+         <name>place list #1</name>
+         <Placemark>
+            <name>Hyrie, Greece</name>
+            <description>Hyria (Ionic: Ὑρίη Huriē, Koine: Ὑρία Huria;[1]) is a toponym mentioned in Homer's catalogue of the ships, where the leading position in the list is given to the contingents from Boeotia, where Hyria and stony Aulis, where the fleet assembled, lead the list.[2]Peneleos, Leitus, Arcesilaus, Prothoenor and Clonius. The site was assigned to the territory of Tanagra by Strabo,[3] who is not more precise about its location, which was apparently no longer inhabited in his time. Pausanias does not mention it. Modern identifications of the site near Aulis place it near Megalo Vouno, on a mound of the coastal plain near the paralía of Drámesi. <a href="https://en.wikipedia.org/wiki/Hyria_(Boeotia)">Click for more on this description from: Wikipedia</a>.
+      </description>
+            <Point>
+               <coordinates>23.6000000,38.400000,0</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Schoenus, Greece</name>
+            <description>Schoenus: a town in Boeotia, mentioned by Homer (Hom. Il. 2.497), and placed by Stabo upon a river of the same name in the territory of Thebes, upon the road to Anthedon, and at the distance of 50 stadia from Thebes. <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D7%3Aentry%3Dschoenus-geo">Click for more on this description from: Perseus</a>.
+      </description>
+            <Point>
+               <coordinates>23.320431,38.3222579,0</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Scolus, Greece</name>
+            <description>Scolus: a town of Boeotia, mentioned by Homer (Hom. Il. 2.497), and described by Strabo as a village of the Parasopia below Cithaeron (ix. p. 408). Pausanias, in his description of the route from Plataea to Thebes, says, that if the traveller were, instead of crossing the Asopus, to follow that river for about 40 stadia, he would arrive at the ruins of Scolus, where there was an unfinished temple of Demeter and Core (9.4.4).<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DS%3Aentry+group%3D7%3Aentry%3Dscolus-geo02">Click for more on this description from: Perseus</a>.
+      </description>
+            <Point>
+               <coordinates>23.250035,38.1848828,0</coordinates>
+            </Point>
+         </Placemark>
+      </Folder>
+   </Folder>
+</kml>

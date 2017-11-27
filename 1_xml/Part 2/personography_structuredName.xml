@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A tiny structured prosopography</title>
+        <author>Julia Flanders</author>
+      </titleStmt>
+      <publicationStmt>
+        <distributor/>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/3.0/"> This
+            work is licensed under a Creative Commons Attribution 3.0 Unported
+            License, and must attributed to the Brown University <ref
+              target="http://www.wwp.brown.edu/">Women Writers
+            Project</ref>.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person role="author">
+          <persName>
+            <surname>Milton</surname>
+            <forename>John</forename>
+          </persName>
+          <birth when="1600-12-09"/>
+          <death when="1674-11-08"/>
+        </person>
+        <person role="ruler">
+          <persName>
+            <surname>Stuart</surname>
+            <forename>Charles</forename>
+          </persName>
+          <birth when="1600-11-19"/>
+          <death when="1649-01-30"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Herrick</surname>
+            <forename>Robert</forename>
+          </persName>
+          <birth when="1591-08-24"/>
+          <death when="1674-10-15"/>
+        </person>
+        <person role="ruler">
+          <persName>
+            <surname>Stuart</surname>
+            <forename>James</forename>
+          </persName>
+          <birth when="1566-06-19"/>
+          <death when="1625-03-27"/>
+        </person>
+        <person role="ruler">
+          <persName>
+            <surname>Stuart</surname>
+            <forename>Charles</forename>
+          </persName>
+          <birth when="1630-05-29"/>
+          <death when="1685-02-06"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Herbert</surname>
+            <forename>George</forename>
+          </persName>
+          <birth when="1593-04-03"/>
+          <death when="1633-03-01"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Cavendish</surname>
+            <forename>Margaret</forename>
+          </persName>
+          <birth when="1623-01-01"/>
+          <death when="1673-12-15"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Shakespeare</surname>
+            <forename>William</forename>
+          </persName>
+          <birth when="1564-04-26"/>
+          <death when="1616-04-23"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Behn</surname>
+            <forename>Aphra</forename>
+          </persName>
+          <birth when="1640-12-14"/>
+          <death when="1689-04-16"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Dryden</surname>
+            <forename>John</forename></persName>
+          <birth when="1631-08-09"/>
+          <death when="1700-05-01"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>Pope</surname>
+            <forename>Alexander</forename>
+          </persName>
+          <birth when="1688-05-21"/>
+          <death when="1744-05-30"/>
+        </person>
+        <person role="ruler">
+          <persName>
+            <surname>Stuart</surname>
+            <forename>Anne</forename>
+          </persName>
+          <birth when="1665-02-06"/>
+          <death when="1714-08-01"/>
+        </person>
+        <person role="ruler">
+          <persName>
+            <surname>Stuart</surname>
+            <forename>James</forename>
+          </persName>
+          <birth when="1633-10-14"/>
+          <death when="1701-09-16"/>
+        </person>
+        <person role="author">
+          <persName>
+            <surname>May</surname>
+            <forename>Alex</forename>
+          </persName>
+          <birth when="1973-01-31"/>  
+        </person>
+        <person role="author">
+          <persName>
+            <surname>May</surname>
+            <forename>Sidney</forename>
+          </persName>
+          <birth when="1993-07-28"/>  
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>

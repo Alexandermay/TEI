@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epiTransform.xsl"?>
+<!--<?oxygen RNGSchema="http://cds.library.brown.edu/projects/usepigraphy/schema/exp-epidoc.rng" type="xml"?>
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+
+        <fileDesc>
+            <!-- *************************************  <titleStmt>  *********************************
+                <title> stores the US Epigraphy number as it will appear when it is displayed. It is the "real" US Epigraphy number
+                that is based on the collection's accession number and can contain characters such as ? * # +  / and [space].
+            -->
+            <titleStmt>
+                <title>MD.Balt.JHU.L.119c</title>
+            </titleStmt>
+            <!-- *************************************  <publicationStmt>  *********************************
+                <idno>: Repeat the value that is in <title>.
+                @xml:id is the machine readable US Epigraphy number. Replace characters such as ? * # & +  [space]  with a set of predeterimined 
+                characters that are legal in XML names and viable URLs. 
+            -->
+            <publicationStmt>
+
+                <authority>Brown University</authority>
+                <idno type="USEpigraphy" xml:id="MD.Balt.JHU.L.119c">Repeat USEP ID</idno>
+            </publicationStmt>
+            <!--  *************************************  <sourceDesc>  ********************************* -->
+            <sourceDesc>
+                <!--  *************************************  <msDesc>  ********************************* -->
+                <!--        <msIdentifier>** breaks out the information that is packed into the US Epigraphy number
+                              <region>  = state
+                              <settlement>  = city
+                              <institution> = library, museum, university or other institution
+                              <repository> = collection within the institution if there is more than one. This element will not always be used.
+                              <idno> Represents the accession number the object has been given by the collection that houses it.  It should correspond to the
+                                        component of the USEP id after the language code.
+                              
+                              If there is more repository information, or if the inscription is known by another name, this information can
+                              be encoded using <altIdentifer>, which has the same elements as <msIdentifier>, or by <msName>, which contains text.
+                -->
+                <msDesc>
+                    <msIdentifier>
+                        <region>MD</region>
+                        <settlement>Balt</settlement>
+                        <institution>JHU</institution>
+                        <repository/>
+                        <idno>1052c</idno>
+                    </msIdentifier>
+
+                    <!--  *************************************  <msContents>  *********************************    -->
+                    <msContents>
+                        <textLang mainLang="lat"/>
+                        <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
+                        <msItem class="#funerary.epitaph #verse">
+                            <!-- short summary of the content of an inscription -->
+                            <p>Verse Epitaph of Female Child (Soteris)</p>
+                        </msItem>
+                    </msContents>
+
+                    <!--  *************************************  <physDesc>  ********************************* -->
+                    <physDesc>
+
+                        <!--  *************************************  <objectDesc>  *********************************
+                            <objectDesc> contains information about the physical properties of the object and the inscribed text.  -->
+
+                        <objectDesc ana="#slab">
+                            <supportDesc ana="#stone.marble">
+                                <support>
+                                    <!-- short summary of the material and support of an inscription -->
+                                    <p> Rectangular slab of marble rounded at the top and sides,
+                                        broken at the upper left hand corner.</p>
+                                    <dimensions type="surface" unit="cm">
+                                        <height>19.3</height>
+                                        <width>8.5</width>
+                                        <depth>3.62</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#complete.broken">
+                                    <p>Upper left hand corner has a break (eliminates 2 words and 1
+                                        letter in the first line of text). It is darkened by a nail
+                                        hole (by which the epitaph was originally attached to the
+                                        wall of the columbaria (Wilson, 1914, 119)) and remaining
+                                        nail on the middle right side, affecting the ends of lines 2
+                                        and 3. </p>
+                                </condition>
+                            </supportDesc>
+                            <!--  *************************************  <layoutDesc>  ********************************* -->
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="6">
+                                    <p>There is one column and 6 lines, with even lines indented as
+                                        a poetic convention to demonstrate the meter. While the text
+                                        is well centered on the titulum, the spacing between lines
+                                        is irregular (ranging from 2-1 cm) and there is notable
+                                        space between the last line and the edge of the stone (4 cm,
+                                        whereas only 2 cm from the top of the stone to the first
+                                        line). The letters decrease in size down the rows of text.
+                                    </p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+
+                        <!--  *************************************  <handDesc>  ********************************* -->
+                        <!--     Contains information about types of writing and means of inscription.  -->
+                        <handDesc hands="1">
+                            <handNote ana="#impressed.inscribed.carved"/>
+                            <!-- <handNote> is a repeatable element -->
+                        </handDesc>
+
+                        <!--  *************************************  <decoDesc>  *********************************     -->
+                        <decoDesc>
+                            <decoNote>
+                                <p/>
+                            </decoNote>
+                        </decoDesc>
+                    </physDesc>
+
+                    <!--  *************************************  <history>  *********************************  -->
+
+                    <!-- <origin> encodes the origin of inscription including place and date. 
+                         <date> use 4 digit years, with leading zeros. BCE has a - sign in front of the number. Both @notBefore 
+                           and @notAfter are required. There is no 0000 date;  use -0001 or 0001.
+                    -->
+                    <history>
+
+                        <summary>
+                            <rs/>
+                            <!-- content can be "fake" or blank -->
+                        </summary>
+
+                        <origin>
+                            <!-- original place and dating of inscription -->
+                            <date notBefore="0001" notAfter="0100">1st c. CE</date>
+                            <placeName ref="europe.italy.rome"
+                                select="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0054%3Aalphabetic+letter%3DP%3Aentry+group%3D3%3Aentry%3Dporta-salaria"
+                                >Porta Salaria, Rome, Italy</placeName>
+                        </origin>
+                        <provenance>
+                            <!-- subsequent locations if inscription was moved -->
+                            <date notBefore="0001" notAfter="0002">Date to be displayed</date>
+                            <placeName ref="xx">Detailed place name</placeName>
+                        </provenance>
+
+
+                    </history>
+                </msDesc>
+                <!--  *************************************  <listBibl>  *********************************  -->
+                <!--   Encode external links, for example to digital corpora as a <ref> inside a <bibl>. 
+                      Ex:  <ref type="external" target="(the url)">EDH nr. HD0000000</ref>
+                -->
+                <listBibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#AE_1915"/>
+                        <biblScope corresp="item">2</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#CIL"/>
+                        <biblScope corresp="item">VI.37412</biblScope>
+                    </bibl>
+
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#CLE"/>
+                        <biblScope corresp="item">2125</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#EDCS"/>
+                        <biblScope corresp="item">20403487</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#EDR"/>
+                        <biblScope corresp="item">072720</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#EDH"/>
+                        <biblScope corresp="item">HD029193</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#AJP_35"/>
+                        <biblScope corresp="item">1914.119</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#BullCom_1905"/>
+                        <biblScope corresp="item">176</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#NSA_1904"/>
+                        <biblScope corresp="item">436-437</biblScope>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <!--  *************************************  <encodingDesc>  ********************************* -->
+        <!-- information about the encoding and controlled vocabularies. Do not edit -->
+
+        <encodingDesc>
+
+            <xi:include href="http://library.brown.edu/usep_data/resources/include_taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for US Epigraphy controlled values</p>
+                </xi:fallback>
+            </xi:include>
+
+        </encodingDesc>
+
+        <profileDesc>
+            <!-- not used -->
+        </profileDesc>
+
+
+        <!--  *************************************  <revisionDesc>  ********************************* -->
+        <!-- Record all changes here -->
+
+        <revisionDesc>
+            <change when="2014-10-01" who="Julia Lenzi ">Initial Encoding</change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <!--  *************************************  <facsimile>  *********************************  -->
+    <!-- Used to record images of an inscription.   -->
+
+    <facsimile>
+        <surface>
+            <desc/>
+            <graphic url="MD.Balt.JHU.L.119c"/>
+        </surface>
+    </facsimile>
+
+    <text>
+        <body>
+            <div type="edition">
+                <!-- transcription goes here -->
+                <ab><lb n="1"/>
+                    <supplied reason="undefined" evidence="previouseditor" cert="high">Ecce <g
+                            type="interpunct"/>, svb h</supplied><damage>o</damage>c <g
+                        type="interpunct"/> titvl<hi rend="apex">o</hi>sita svnt <g
+                        type="interpunct"/><persName>s<hi rend="apex">o</hi>t<hi rend="apex"
+                        >e</hi>ridis</persName><note>Unidentified female name.</note> oss<supplied
+                        reason="lost" evidence="previouseditor" cert="high"> a</supplied>, <lb n="2"
+                    /> cons<hi rend="apex">v</hi>mpta <g type="interpunct"/> inm<hi rend="tall"
+                        >i</hi>t<hi rend="tall">i</hi> morte <g type="interpunct"/> sepvlta <g
+                        type="interpunct"/> iacet. <lb n="3"/> N<hi rend="apex">o</hi>ndum <g
+                        type="interpunct"/> bis tern<hi rend="apex">o</hi>s <g type="interpunct"/>
+                    aetas compleverat <g type="interpunct"/> ann<hi rend="apex">o</hi>s, <lb n="4"/>
+                    cvm <g type="interpunct"/>ivssast <g type="interpunct"/><ref
+                        target="https://en.wikipedia.org/wiki/D%C4%ABs_Pater">nigri <g
+                            type="interpunct"/> d<hi rend="tall">i</hi>tis</ref>
+                    <g type="interpunct"/> in<hi rend="tall">i</hi>re domvm.<lb n="5"/> Mater qv<hi
+                        rend="tall">o</hi>s <g type="interpunct"/> n<hi rend="apex">a</hi>tae <g
+                        type="interpunct"/> d<hi rend="apex">e</hi>b<hi rend="apex">e</hi>bat <g
+                        type="interpunct"/> tr<hi rend="apex">a</hi>dere <g type="interpunct"/> L<hi
+                        rend="apex">v</hi>ct<hi rend="apex">v</hi>s, <lb n="6"/>tr<hi rend="apex"
+                        >a</hi>didit <g type="interpunct"/> h<hi rend="apex">o</hi>s <g
+                        type="interpunct"/> m<hi rend="apex">a</hi>tri <g type="interpunct"/> n<hi
+                        rend="apex">a</hi>ta <g type="interpunct"/>repente sva<hi rend="apex"
+                    >e</hi>.</ab>
+            </div>
+
+            <div type="commentary">
+                <!-- notes go here -->
+                <p>Rectangular slab of marble rounded at the top and sides, broken at the upper left
+                    hand corner. It is darkened by a nail hole (by which the epitaph was originally
+                    attached to the wall of the columbaria (Wilson, 1914, 119)) and remaining nail
+                    on the middle right side, affecting the ends of lines 2 and 3. The face is
+                    affected by weathering, showing discoloration. The measurements are 19.3 X 28.5
+                    X 3.6 cm. It is a funerary verse written in elegiac couplets to a female child
+                    (Soteris). There is one column and 6 lines, with even lines indented as a poetic
+                    convention to demonstrate the meter. While the text is well centered on the
+                    titulum, the spacing between lines is irregular (ranging from 2-1 cm) and there
+                    is notable space between the last line and the edge of the stone (4 cm, whereas
+                    only 2 cm from the top of the stone to the first line). The letters decrease in
+                    size down the rows of text. </p>
+            </div>
+            <div type="translation">
+                <!-- notes go here -->
+                <p>“Behold, under this inscription the bones of Soteris are located, having been
+                    consumed by merciless death, she lies in a tomb. She had not yet completed six
+                    years of life, when she was ordered to enter into the home of <ref
+                        target="https://en.wikipedia.org/wiki/D%C4%ABs_Pater">Black Dis</ref>. Those
+                    tears which the mother ought to surrender to her daughter, those same tears her
+                    daughter suddenly surrendered to her mother.”</p>
+            </div>
+
+            <div type="bibliography">
+                <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml">
+                    <xi:fallback>
+                        <p>US Ep bibliography</p>
+                    </xi:fallback>
+                </xi:include>
+            </div>
+
+        </body>
+    </text>
+</TEI>

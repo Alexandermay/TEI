@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Transcription</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>
+               <quote><choice>
+                     <orig>Philosophie</orig>
+                     <reg>Philosophiae</reg>
+                  </choice>
+                  <choice>
+                     <orig>seruias</orig>
+                     <reg>servias</reg>
+                  </choice> oportet <choice>
+                     <orig>vt</orig>
+                     <reg>ut</reg>
+                  </choice> tibi <choice>
+                     <orig>contigit</orig>
+                     <reg>contingat</reg>
+                  </choice> vera libertas.</quote></p>
+            <p>
+               <choice>
+                  <orig>Hec</orig>
+                  <reg>Haec</reg>
+               </choice>
+               <expan><abbr>su</abbr><ex>n</ex><abbr>t</abbr></expan> verba <name type="person"
+                  ref="https://en.wikipedia.org/wiki/Seneca_the_Younger"><choice>
+                     <orig>Senece</orig>
+                     <reg>Senecae</reg>
+                  </choice></name>
+               <ref
+                  target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0080%3Aletter%3D8%3Asection%3D7"
+                  >octava epistola ad <name type="person"
+                     ref="https://en.wikipedia.org/wiki/Lucilius_Junior"><choice>
+                        <orig>Lucilliu</orig>
+                        <reg><expan><abbr>Luciliu</abbr><ex>m</ex></expan></reg>
+                     </choice></name></ref>. Quia vocari philosophiam
+                     <expan><abbr>scientia</abbr><ex>m</ex></expan> veritatis recte se habet ex
+                     <expan><abbr>secu</abbr><ex>n</ex><abbr>do</abbr></expan>
+               <title ref="https://en.wikipedia.org/wiki/Gesta_Francorum"><choice>
+                     <orig>Metaphisice</orig>
+                     <reg>Metaphysicae</reg>
+                  </choice></title>. Et philosophia effert
+                     <expan><abbr>delectatio</abbr><ex>n</ex><abbr>es</abbr></expan> mirabiles
+               firmitate <choice>
+                  <orig>&amp;</orig>
+                  <reg>et</reg>
+               </choice> puritate ex secundo <title
+                  ref="https://en.wikipedia.org/wiki/Nicomachean_Ethics">Ethicorum</title>. <choice>
+                  <orig>&amp;</orig>
+                  <reg>Et</reg>
+               </choice> multis visa est philosophia res mirabilis <choice>
+                  <orig>&amp;</orig>
+                  <reg>et</reg>
+               </choice> divina ex <title ref="https://en.wikipedia.org/wiki/On_the_Universe">De
+                  coelo <choice>
+                     <orig>&amp;</orig>
+                     <reg>et</reg>
+                  </choice> mundo</title>
+               <name type="person"><choice>
+                     <orig>Arestotelis</orig>
+                     <reg>Aristotelis</reg>
+                  </choice></name>. </p>
+            <p> Item <expan><abbr>q</abbr><ex>uo</ex><abbr>d</abbr></expan> nulla scientia similis
+               est philosophiae, quae clarificat animam et facit delectari eam in hoc <choice>
+                  <orig>seculo</orig>
+                  <reg>saeculo</reg>
+               </choice> in perfectio(n)e et rectitudine ex libro <title
+                  ref="https://en.wikipedia.org/wiki/The_Book_of_the_Apple">De pomo et morte</title>
+               <name type="person"><choice>
+                     <orig>Aresto</orig>
+                     <reg>Aristotelis</reg>
+                  </choice></name>. </p>
+            <p> Et philosophia trahit
+                     <expan><abbr>ho</abbr><ex>m</ex><abbr>i</abbr><ex>n</ex><abbr>em</abbr></expan>
+               ab oscuritate <choice>
+                  <orig>ignorantie</orig>
+                  <reg>ignorantiae</reg>
+               </choice> ad scientiam, a tenebris <choice>
+                  <orig>stulticie</orig>
+                  <reg>stultitiae</reg>
+               </choice> ad <expan><abbr>luce</abbr><ex>m</ex></expan>
+               <expan><abbr>sapie</abbr><ex>n</ex><abbr>tiae</abbr></expan> et ad
+                     <expan><abbr>claritate</abbr><ex>m</ex></expan> intellectus ex eodem libro </p>
+            <p> Item <expan><abbr>q</abbr><ex>uia</ex></expan>
+               <expan><abbr>phi</abbr><ex>losophi</ex><abbr>a</abbr></expan> a superstitione
+               liberat, metu mortis non <expan><abbr>co</abbr><ex>n</ex><abbr>turbat</abbr></expan>
+               <expan><abbr>s</abbr><ex>e</ex><abbr>c</abbr><ex>un</ex><abbr>d</abbr><ex>u</ex><abbr>m</abbr></expan>
+               <name type="person" ref="https://en.wikipedia.org/wiki/Cicero"
+                        ><expan><abbr>Tulliu</abbr><ex>m</ex></expan></name> in
+                     <expan><abbr>li</abbr><ex>bro</ex></expan>
+               <ref
+                  target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0036%3Abook%3D1%3Asection%3D63"
+                     ><title ref="https://en.wikipedia.org/wiki/De_finibus_bonorum_et_malorum">De
+                           <expan><abbr>fini</abbr><ex>bus</ex></expan>
+                     <expan><abbr>bo</abbr><ex>norum</ex></expan> et
+                           <expan><abbr>ma</abbr><ex>lorum</ex></expan></title></ref>. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>urnctspdllatm:medms.miss03.perseids-en-2016-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Perseus Project</authority>
+            <idno type="urn:cts">urn_cts_pdllatmc_medms.miss03.perseids-en-2016-2</idno>
+            <availability>
+               <p>This work is licensed under a
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Creative 
+          Commons Attribution-ShareAlike 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="lat"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+          <change when="2016-02-08T14:05:30+00:00" who="http://sosol.perseids.org/sosol">Automated creation from template</change>
+      </revisionDesc>
+  </teiHeader>
+        
+        
+        <!--  *************************************  <facsimile>  *********************************  -->
+        <!-- Used to record images of an inscription.   -->
+        
+        <facsimile>
+                <surface>
+                        <desc/>
+                        <graphic url="urn_cts_pdllatmc_medms.miss03.perseids-en-2016-2"/>
+                </surface>
+        </facsimile>
+        
+        
+  <text>
+      <body>
+         <div xml:lang="lat" type="textpart" subtype="obcolumn" n="1" xml:space="preserve">
+<ab><l n="1">
+      	<w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0091,0.0166,0.0241,0.0137"><supplied reason="lost" cert="low">m</supplied>ulier</w>
+      	<w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0355,0.0153,0.0355,0.0164">habens</w>
+      	<w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0727,0.0158,0.0453,0.0161">dragmas</w>
+      	<w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1185,0.0158,0.0358,0.0164"><abbr>de</abbr></w>
+      	    <gap reason="illegible" extent="unknown" unit="character"/>
+      	</l>
+<l n="2">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0054,0.0425,0.0435,0.0153"><hi rend="ligature">per</hi>diderit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0512,0.0414,0.0556,0.0232">dragmam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1073,0.0459,0.0318,0.0166">unam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1407,0.0485,0.0323,0.0161">nonne</w>
+    <lb n="2"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1739,0.0469,0.0128,0.0153">ac<supplied reason="lost">cend</supplied></w>
+               
+    <lb n="3" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0061,0.0730,0.0105,0.0124">it</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0178,0.0699,0.0523,0.0190">lucernam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0717,0.0738,0.0100,0.0134"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0855,0.0762,0.0377,0.0129">euertit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1253,0.0733,0.0437,0.0177">domum</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1707,0.0765,0.0126,0.0145"><hi rend="ligature">et</hi></w></l>
+<l n="4">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0159,0.0992,0.0575,0.0227">diligenter</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0736,0.1007,0.0337,0.0211">donec</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1087,0.1028,0.0507,0.0216">inueniat</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1645,0.1015,0.0295,0.0216">edit</w></hi></l>
+<l n="5">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0147,0.1221,0.0524,0.0256"><supplied reason="lost" cert="medium">r</supplied><expan><abbr>atione</abbr><ex cert="high">rationem</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0683,0.1232,0.0367,0.0266"><expan><abbr>nram</abbr><ex cert="medium">nostram</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1063,0.1245,0.0168,0.0295"><hi rend="ligature">quis</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1241,0.1239,0.0259,0.0293"><expan><abbr>dne</abbr><ex cert="high">domine</ex></expan></w>.
+        <hi rend="red"><num value="2"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1571,0.1290,0.0381,0.0282">ii</w></num></hi></l>
+<l n="6">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0161,0.1582,0.0360,0.0214"><supplied reason="lost" cert="medium">adiur</supplied>auit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0551,0.1572,0.0297,0.0264">Saul</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0853,0.1561,0.0381,0.0332"><expan><abbr>pplm</abbr><ex cert="high">populum</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1248,0.1572,0.0405,0.0309">dicens</w>.
+    <lb n="6"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1688,0.1559,0.0213,0.0322">Ma<supplied reason="lost">ledi</supplied></w>
+
+    <lb n="7" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0177,0.1857,0.0334,0.0277">ctus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0489,0.1928,0.0267,0.0203">uir</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0762,0.1835,0.0091,0.0374"><hi rend="ligature">qui</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0870,0.1920,0.0655,0.0274">comederit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1541,0.1893,0.0372,0.0311">pane<hi rend="ligature">m</hi></w></l>
+<l n="8">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0142,0.2184,0.0470,0.0298">ues<hi rend="ligature">per</hi>a<hi rend="ligature">m</hi></w>,
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0613,0.2213,0.0377,0.0280">donec</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1007,0.2210,0.0519,0.0314">ulciscar</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1545,0.2257,0.0224,0.0224">me</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1774,0.2244,0.0187,0.0235">de</w></l>
+<l n="9">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0049,0.2466,0.0294,0.0309"><supplied reason="lost" cert="medium">inimici</supplied>s</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0343,0.2495,0.0308,0.0327">meis</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0673,0.2476,0.0164,0.0290">Et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0863,0.2497,0.0110,0.0256"><hi rend="ligature">non</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0987,0.2516,0.0888,0.0287">manducauit</w></l>
+<l n="10">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0059,0.2819,0.0266,0.0264"><supplied reason="lost" cert="medium">universu</supplied>s</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0348,0.2769,0.0280,0.0327"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0647,0.2777,0.0346,0.0327">pane<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0996,0.2795,0.0430,0.0369">om<hi rend="ligature">n</hi>eq<hi rend="ligature">ue</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1407,0.2832,0.0542,0.0332">uulgus</w></l>
+<l n="11">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0056,0.3117,0.0640,0.0306">saltu<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0701,0.3122,0.0405,0.0311">inquo</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1118,0.3178,0.0278,0.0237">erat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1424,0.3165,0.0252,0.0256">mel</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1681,0.3165,0.0264,0.0319">sup<hi rend="ligature">er</hi></w></l>
+<l n="12">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0049,0.3510,0.0377,0.0253"><supplied reason="lost" cert="medium">a</supplied>gri</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0458,0.3412,0.0517,0.0367"><expan><abbr>ingssus</abbr><ex cert="high">ingressus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0984,0.3431,0.0103,0.0293"><expan><abbr>e</abbr><ex cert="high">est</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1094,0.3497,0.0299,0.0280">itaq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1400,0.3457,0.0322,0.0335"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1730,0.3447,0.0220,0.0309">sal<supplied reason="lost" cert="medium">tum</supplied></w></l>
+<l n="13">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0035,0.3737,0.0800,0.0298">apparuit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0858,0.3716,0.0440,0.0282">fluens</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1323,0.3763,0.0280,0.0261">mel</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1604,0.3697,0.0451,0.0411">Nullq<hi rend="ligature">ue</hi></w>;</l>
+<l n="14">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0049,0.4016,0.0370,0.0277"><supplied reason="lost" cert="medium">adplicu</supplied>it</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0444,0.4027,0.0412,0.0251">manu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0848,0.4027,0.0168,0.0301">ad</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1021,0.4011,0.0173,0.0287">os</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1178,0.4006,0.0318,0.0364">suu<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1487,0.4088,0.0386,0.0227">time<supplied reason="lost" cert="medium">bat</supplied></w></l>
+<l n="15">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0047,0.4338,0.0218,0.0293">eni<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0269,0.4317,0.0320,0.0335"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0570,0.4333,0.0606,0.0311">iuram<hi rend="ligature">en</hi>tu<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1167,0.4306,0.0182,0.0322"><expan><abbr>T</abbr><ex cert="high"> Titulus</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1377,0.4322,0.0313,0.0338"><expan><abbr>lect</abbr><ex cert="high">lectionis</ex></expan></w></hi>.
+        <hi rend="red"><num value="2"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1732,0.4328,0.0145,0.0295">ii</w></num></hi>.</l>
+<l n="16">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0035,0.4626,0.0260,0.0245"><supplied reason="lost" cert="medium">Ionat</supplied>has</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0322,0.4631,0.0126,0.0253"><hi rend="ligature">non</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0442,0.4660,0.0603,0.0290">audierat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1056,0.4652,0.0196,0.0256">cu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1248,0.4699,0.0751,0.0253">adiuraret</w></l>
+<l n="17">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0042,0.4947,0.0505,0.0298"><expan><abbr>pplm</abbr><ex cert="high">populum</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0577,0.4960,0.0706,0.0327">extenditq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1298,0.4960,0.0654,0.0311">sumitate<hi rend="ligature">m</hi></w></l>
+<l n="18">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0051,0.5253,0.0243,0.0261"><supplied reason="lost" cert="medium">uirga</supplied>e</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0343,0.5253,0.0269,0.0290">qua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0638,0.5264,0.0531,0.0264">habebat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1194,0.5264,0.0540,0.0298">inmanu</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1735,0.5272,0.0178,0.0258"><hi rend="ligature">et</hi></w></l>
+<l n="19">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0054,0.5570,0.0412,0.0253"><supplied reason="lost" cert="medium">inting</supplied>uit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0491,0.5527,0.0484,0.0343">infauu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0966,0.5578,0.0390,0.0269">mellis</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1414,0.5614,0.0145,0.0219"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1569,0.5559,0.0381,0.0388">conu<supplied reason="lost" cert="medium">ertit</supplied></w></l>
+<l n="20">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0038,0.5820,0.0381,0.0324"><supplied reason="lost" cert="medium">ma</supplied>nu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0404,0.5841,0.0246,0.0301">sua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0669,0.5876,0.0170,0.0245">ad</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0851,0.5833,0.0156,0.0287">os</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1007,0.5836,0.0285,0.0332">suu<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1285,0.5870,0.0150,0.0285"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1437,0.5873,0.0465,0.0285">illumi<supplied reason="lost" cert="medium">nati</supplied></w></l>
+<l n="21">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0080,0.6126,0.0175,0.0327">s<hi rend="ligature">un</hi>t</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0232,0.6134,0.0290,0.0388"><expan><abbr>ocli</abbr><ex cert="high">oculi</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0533,0.6108,0.0206,0.0335">ei<hi rend="ligature">us</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0743,0.6158,0.0898,0.0330">Respondensq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1639,0.6171,0.0252,0.0285">un<hi rend="ligature">us</hi></w></l>
+<l n="22">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0042,0.6482,0.0222,0.0282"><supplied reason="lost" cert="medium">po</supplied><expan><abbr>plo</abbr><ex cert="medium">pulo</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0274,0.6469,0.0250,0.0332">ait</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0535,0.6450,0.0315,0.0338">Iure</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0863,0.6495,0.0540,0.0322">iurando</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1435,0.6485,0.0554,0.0359">c<hi rend="ligature">on</hi>strinx<supplied reason="lost" cert="medium">it</supplied></w></l>
+<l n="23">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0056,0.6788,0.0281,0.0274"><supplied reason="lost" cert="medium">tu</supplied>us</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0341,0.6783,0.0357,0.0319"><expan><abbr>pplm</abbr><ex cert="high">populum</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0724,0.6812,0.0458,0.0314">dicens</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1201,0.6833,0.0697,0.0290">maledict<hi rend="ligature">us</hi></w></l>
+<l n="24">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0044,0.7086,0.0537,0.0311"><supplied reason="lost" cert="medium">com</supplied>ederit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0587,0.7081,0.0384,0.0330">pane<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0966,0.7094,0.0437,0.0319">hodie</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1416,0.7118,0.0446,0.0261">Defece<supplied reason="lost" cert="medium">rat</supplied></w></l>
+<l n="25">
+        <gap reason="illegible" extent="unknown" unit="character"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0021,0.7331,0.0255,0.0367">ti</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0259,0.7389,0.0402,0.0345"><expan><abbr>popls</abbr><ex cert="high">populus</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0706,0.7381,0.0184,0.0332"><expan><abbr>T</abbr><ex cert="high"> Titulus</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0972,0.7384,0.0388,0.0343"><expan><abbr>lect</abbr><ex cert="high">lectionis</ex></expan></w></hi>.
+        <hi rend="red"><num value="3"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1395,0.7431,0.0404,0.0319">iii</w></num></hi>.</l>
+<l n="26">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0045,0.7758,0.0156,0.0200"><supplied reason="lost" cert="medium">dix</supplied>it</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0211,0.7687,0.0626,0.0369">ionathas</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0800,0.7703,0.0675,0.0301">Turbauit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1489,0.7785,0.0433,0.0272">pater</w></l>
+<l n="27">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0068,0.7972,0.0433,0.0353">t<hi rend="ligature">er</hi>ram</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0475,0.8030,0.0568,0.0266">Viditis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1061,0.8059,0.0239,0.0274">ipsi</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1314,0.8046,0.0163,0.0285">q<hi rend="ligature">ui</hi>a</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1501,0.8051,0.0456,0.0282">illumi<supplied reason="lost" cert="medium">nati</supplied></w></l>
+<l n="28">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0068,0.8310,0.0404,0.0301"><expan><abbr>ocli</abbr><ex cert="high">oculi</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0474,0.8357,0.0269,0.0306">mei</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0760,0.8339,0.0154,0.0261">eo</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0931,0.8307,0.0197,0.0332">q<hi rend="ligature">uo</hi>d</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1125,0.8352,0.0869,0.0351">gustauerim</w></l>
+<l n="29">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0066,0.8655,0.0232,0.0240"><supplied reason="lost" cert="medium">melle</supplied>e</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0313,0.8626,0.0250,0.0282">isto</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0570,0.8642,0.0554,0.0322">paululu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1180,0.8637,0.0330,0.0367">q<hi rend="ligature">ua</hi>nto</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1513,0.8650,0.0453,0.0419">magis</w></l>
+<l n="30">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0070,0.8935,0.0516,0.0338"><supplied reason="lost" cert="medium">come</supplied>disset</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0585,0.8927,0.0288,0.0367"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.0898,0.8987,0.0180,0.0264">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1082,0.8956,0.0294,0.0364">p<hi rend="ligature">rae</hi>da</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1377,0.8990,0.0652,0.0364">inimico<hi rend="ligature">rum</hi></w></l>
+</ab>
+      </div>
+         <div xml:lang="lat" type="textpart" subtype="obcolumn" n="2" xml:space="preserve">
+<ab>
+<l n="1">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2330,0.0113,0.0491,0.0229"><supplied reason="lost" cert="medium">ma</supplied><expan><abbr>ctauret</abbr><ex cert="high">ctauerunt</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2843,0.0050,0.0400,0.0359">intra</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3245,0.0034,0.0648,0.0427">comeditq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3902,0.0084,0.0302,0.0324"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4207,0.0100,0.0332,0.0314">cum</w></l>
+<l n="2">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2333,0.0345,0.0652,0.0374">sanguine</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2934,0.0372,0.0177,0.0287"><expan><abbr>T</abbr><ex cert="high">Titulus</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3172,0.0361,0.1298,0.0322">#</w></hi>
+            <gap reason="illegible" extent="unknown" unit="character"/>
+        </l>
+<milestone n="1" ed="OB" unit="Paragraph"/>
+<l n="3">
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.1884,0.0622,0.1258,0.0796">Nuntiaueri<hi rend="ligature">Nuntiaverunt</hi></w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3170,0.0686,0.0274,0.0266">saul</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3462,0.0633,0.0570,0.0306">dicentes</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4041,0.0638,0.0164,0.0343">q<hi rend="ligature">uo</hi>d</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4214,0.0696,0.0290,0.0301"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w></l>
+<l n="4">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2454,0.0960,0.0596,0.0330">peccasset</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3083,0.0970,0.0260,0.0272"><expan><abbr>dno</abbr><ex cert="high">domino</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3361,0.0970,0.0636,0.0311">comedens</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4035,0.1002,0.0168,0.0237">cu<hi rend="ligature">m</hi></w>
+    <lb n="4"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4238,0.0992,0.0238,0.0256">san</w>
+
+    <lb n="5" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2323,0.1287,0.0451,0.0343">guine</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2775,0.1239,0.0236,0.0364">Qui</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3020,0.1345,0.0243,0.0222">a<hi rend="ligature">it</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3240,0.1237,0.0750,0.0338">Preuaricati</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4032,0.1297,0.0302,0.0282">estis</w>
+    <lb n="5"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4357,0.1334,0.0227,0.0245">uol</w>
+
+    <lb n="6" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2321,0.1569,0.0323,0.0309">uite</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2641,0.1603,0.0395,0.0290">adme</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3048,0.1572,0.0149,0.0298">ia<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3202,0.1632,0.0329,0.0235">nunc</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3553,0.1603,0.0327,0.0290">saxu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3889,0.1606,0.0533,0.0359">grande</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4429,0.1614,0.0177,0.0287">Et</w></l>
+<l n="7">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2309,0.1928,0.0358,0.0243">dixit</w>  
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2679,0.1886,0.0322,0.0322">saul</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3002,0.1904,0.0760,0.0353">Dispgimini<hi rend="ligature">dispergimini</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3792,0.1888,0.0582,0.0377">inuulg<hi rend="ligature">us</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4366,0.1970,0.0159,0.0266"><hi rend="ligature">et</hi></w></l>
+<l n="8">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2300,0.2236,0.0442,0.0256">dicite</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2749,0.2218,0.0217,0.0272">eis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2959,0.2260,0.0177,0.0219">ut</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3135,0.2226,0.0601,0.0256">adducat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3752,0.2191,0.0446,0.0369">un<hi rend="ligature">us</hi>q<hi rend="ligature">ui</hi>sq<hi rend="ligature">ue</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4219,0.2302,0.0362,0.0216">adme</w></l>
+<l n="9">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2303,0.2513,0.0353,0.0264">boue<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2649,0.2503,0.0243,0.0290">suu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2906,0.2547,0.0142,0.0222"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3046,0.2534,0.0453,0.0272">ariete<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3518,0.2574,0.0136,0.0200"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3667,0.2555,0.0561,0.0253">occid<hi rend="ligature">ite</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4236,0.2547,0.0273,0.0343">sup<hi rend="ligature">er</hi></w></l>
+<l n="10">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2289,0.2845,0.0346,0.0256">illud</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2648,0.2864,0.0152,0.0208"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2805,0.2872,0.0643,0.0214">uescimini</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3459,0.2867,0.0166,0.0214"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3637,0.2861,0.0108,0.0240"><hi rend="ligature">non</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3756,0.2903,0.0706,0.0256">peccabitis</w></l>
+<l n="11">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2289,0.3138,0.0318,0.0261"><expan><abbr>dno</abbr><ex cert="high">domino</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2607,0.3157,0.0739,0.0245">comedentes</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3375,0.3162,0.0180,0.0229">cu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3563,0.3165,0.0643,0.0340">sanguine</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4210,0.3138,0.0143,0.0287"><expan><abbr>T</abbr><ex cert="high"> Titulus</ex></expan></w>.
+        <hi rend="red"><num value="2"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4334,0.3165,0.0192,0.0280">ii</w></num></hi>.</l>
+<milestone n="2" ed="OB" unit="Paragraph"/>
+<l n="12">
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2010,0.3452,0.0905,0.0643">Adduxit</w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2891,0.3473,0.0341,0.0269">om<hi rend="ligature">n</hi>is</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3221,0.3465,0.0309,0.0324"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3535,0.3460,0.0599,0.0351">unusq<hi rend="ligature">ui</hi>sq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4117,0.3531,0.0360,0.0224">bove<hi rend="ligature">m</hi></w></l>
+<l n="13">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2434,0.3784,0.0523,0.0229">inmanu</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2966,0.3792,0.0213,0.0224">sua</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3207,0.3803,0.0257,0.0295">usq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3469,0.3790,0.0587,0.0277">adnocte<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4063,0.3816,0.0133,0.0214"><hi rend="ligature">et</hi></w>
+    <lb n="13"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4219,0.3850,0.0264,0.0206">occi<hi rend="ligature"/></w>
+
+    <lb n="14" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2281,0.4072,0.0285,0.0248">der<hi rend="ligature">unt</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2585,0.4098,0.0234,0.0229">ibi</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2787,0.4069,0.0673,0.0324">Idificauit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3480,0.4085,0.0243,0.0280">aut<hi rend="ligature">em</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3770,0.4117,0.0276,0.0251">saul</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4060,0.4140,0.0439,0.0237">altare</w></l>
+<l n="15">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2284,0.4349,0.0306,0.0293"><expan><abbr>dno</abbr><ex cert="high">domino</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2583,0.4351,0.0488,0.0364">Tuncq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3071,0.4354,0.0337,0.0316">p<hi rend="ligature">ri</hi>mu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3403,0.4404,0.0367,0.0293">cepit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3782,0.4404,0.0453,0.0240">altare</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4252,0.4383,0.0255,0.0293"><expan><abbr>dno</abbr><ex cert="high">domino</ex></expan></w></l>
+<l n="16">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2270,0.4713,0.0673,0.0293"><hi rend="ligature">ae</hi>dificare</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2945,0.4705,0.0150,0.0277">Et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3104,0.4744,0.0358,0.0266">dixit</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3478,0.4718,0.0313,0.0287">Saul</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3794,0.4649,0.0538,0.0369">Irruam<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4320,0.4731,0.0245,0.0338">su<hi rend="ligature">per</hi></w></l>
+<l n="17">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2268,0.5011,0.0598,0.0277">philistim</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2885,0.5011,0.0418,0.0266">nocte</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3298,0.5066,0.0164,0.0187"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3464,0.5008,0.0564,0.0282">uastem<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4018,0.5050,0.0225,0.0251">eos</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4233,0.5076,0.0311,0.0282">usq<hi rend="ligature">ue</hi></w>;</l>
+<l n="18">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2261,0.5290,0.0217,0.0261">du<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2480,0.5314,0.0634,0.0287">illucescat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3135,0.5348,0.0411,0.0251">mane</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3549,0.5390,0.0248,0.0174">nec</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3798,0.5322,0.0776,0.0343">relinquam<hi rend="ligature">us</hi></w></l>
+<l n="19">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2270,0.5628,0.0178,0.0219">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2452,0.5588,0.0184,0.0285">eis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2609,0.5588,0.0323,0.0301">uiru<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2947,0.5604,0.0395,0.0319">Dix<hi rend="ligature">it</hi>q<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3355,0.5609,0.0327,0.0316"><expan><abbr>ppls</abbr><ex cert="high">populus</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3684,0.5649,0.0398,0.0266">Omne</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4093,0.5659,0.0206,0.0311">q<hi rend="ligature">uo</hi>d</w>
+    <lb n="19"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4303,0.5665,0.0187,0.0264">bo</w>
+    
+    <lb n="20" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2272,0.5912,0.0334,0.0251">num</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2621,0.5891,0.0433,0.0285">uidet</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3043,0.5976,0.0156,0.0224">in</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3202,0.5957,0.0316,0.0261"><expan><abbr>oclis</abbr><ex cert="high">oculis</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3556,0.5965,0.0292,0.0261">tuis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3857,0.5986,0.0238,0.0235">fac</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4091,0.5973,0.0177,0.0237">Et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4252,0.6015,0.0252,0.0229">ait</w></l>
+<l n="21">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2281,0.6213,0.0589,0.0274">sacerdos</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2868,0.6229,0.0622,0.0274">Accedam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3494,0.6287,0.0264,0.0222">huc</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3750,0.6266,0.0177,0.0261">ad</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3929,0.6276,0.0280,0.0237"><expan><abbr>dm</abbr><ex cert="high">deum</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4184,0.6279,0.0168,0.0264"><expan><abbr>T</abbr><ex cert="high"> Titulus</ex></expan></w>.
+        <hi rend="red"><num value="3"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4334,0.6258,0.0189,0.0274">iii</w></num></hi>.</l>
+<milestone n="3" ed="OB" unit="Paragraph"/>
+<l n="22">
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2003,0.6490,0.1010,0.0683">Consultit</w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3032,0.6574,0.0264,0.0258">saul</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3312,0.6564,0.0341,0.0282"><expan><abbr>dnm</abbr><ex cert="high">dominum</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3651,0.6574,0.0496,0.0285">dicens</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4135,0.6566,0.0210,0.0311">Nu<hi rend="ligature">m</hi></w>
+    <lb n="22"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4357,0.6656,0.0133,0.0332">p<hi rend="ligature">er</hi></w>
+
+    <lb n="23" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2394,0.6875,0.0430,0.0285">sequar</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2845,0.6888,0.0661,0.0285">philistim</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3502,0.6886,0.0119,0.0251">si</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3619,0.6901,0.0447,0.0264">tradas</w>
+    <lb n="23"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4063,0.6978,0.0390,0.0195">inma</w>
+
+    <lb n="24" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2260,0.7197,0.0190,0.0206">nu</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2468,0.7157,0.0260,0.0266"><expan><abbr>isri</abbr><ex cert="high">Israel</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2721,0.7173,0.0217,0.0272"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2955,0.7165,0.0098,0.0290"><hi rend="ligature">non</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3062,0.7199,0.0647,0.0290">respondit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3733,0.7223,0.0142,0.0256">ei</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3882,0.7239,0.0159,0.0256">in</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4037,0.7210,0.0239,0.0282">die</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4257,0.7202,0.0267,0.0314">illa</w></l>
+<l n="25">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2246,0.7445,0.0344,0.0356">Dix<hi rend="ligature">it</hi>q<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2597,0.7505,0.0297,0.0245">saul</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2857,0.7463,0.0675,0.0338">Applicate</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3544,0.7537,0.0294,0.0235">huc</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3836,0.7540,0.0537,0.0251">uniu<hi rend="ligature">er</hi>sos</w>
+    <lb n="25"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4350,0.7600,0.0171,0.0229">an</w>
+    
+    <lb n="26" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2263,0.7798,0.0419,0.0319">gulos</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2665,0.7806,0.0336,0.0319"><expan><abbr>ppli</abbr><ex cert="high">populi</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3004,0.7830,0.0142,0.0214"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3146,0.7832,0.0451,0.0235">scitote</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3616,0.7872,0.0156,0.0211"><hi rend="ligature">per</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3782,0.7882,0.0456,0.0222">uidete</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4249,0.7932,0.0252,0.0245">per</w></l>
+<l n="27">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2279,0.8078,0.0259,0.0314">que<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2541,0.8096,0.0598,0.0274">acciderit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3160,0.8128,0.0523,0.0287">peccatu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3689,0.8162,0.0262,0.0214">hoc</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3955,0.8151,0.0407,0.0245">hodie</w>.
+    <lb n="27"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4341,0.8151,0.0189,0.0251">Ui</w>
+
+    <lb n="28" break="no"/><w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2265,0.8441,0.0234,0.0195">uit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2515,0.8391,0.0259,0.0245"><expan><abbr>dns</abbr><ex cert="high">dominus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2772,0.8397,0.0523,0.0258">saluator</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3296,0.8420,0.0280,0.0258"><expan><abbr>isrl</abbr><ex cert="high">Israel</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3569,0.8381,0.0190,0.0356">q<hi rend="ligature">ui</hi>a</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3761,0.8423,0.0101,0.0253">si</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3866,0.8473,0.0105,0.0306"><hi rend="ligature">per</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3971,0.8463,0.0589,0.0264">ionathan</w></l>
+<l n="29">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2253,0.8689,0.0329,0.0256">filiu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2569,0.8703,0.0294,0.0269">meu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2870,0.8692,0.0364,0.0287">factu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3240,0.8697,0.0108,0.0264"><expan><abbr>e</abbr><ex cert="high">est</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3348,0.8763,0.0353,0.0303">absq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3696,0.8742,0.0797,0.0309">retractione</w></l>
+<l n="30">
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2270,0.8972,0.0573,0.0314">moriet<hi rend="ligature">ur</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.2822,0.8982,0.0383,0.0359">Adq<hi rend="ligature">uo</hi>d</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3202,0.9030,0.0465,0.0348">nullus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.3658,0.9059,0.0683,0.0335">cont<hi rend="ligature">ra</hi>dixit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.rpnY9Ofi6Xn@0.4341,0.9122,0.0143,0.0248">ei</w></l>
+</ab>
+      </div>
+         <div xml:lang="lat" type="textpart" subtype="obcolumn" n="3" xml:space="preserve">
+<ab>        
+
+</ab>
+        </div>
+         <div xml:lang="lat" type="textpart" subtype="revcolumn" n="1" xml:space="preserve">
+<ab>
+<l n="1">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0182,0.0109,0.0356,0.0266">t<hi rend="ligature">er</hi>ram</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0555,0.0133,0.0471,0.0322">implet</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1049,0.0128,0.0312,0.0332">pat<hi rend="ligature">er</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1363,0.0175,0.0222,0.0221">im<supplied reason="lost" cert="medium">plet</supplied></w></l>
+<l n="2">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0137,0.0425,0.0154,0.0314"><expan><abbr>pe</abbr><ex cert="low">spiritus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0299,0.0401,0.0252,0.0284"><expan><abbr>scs</abbr><ex cert="medium">sanctus</ex></expan></w>!
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0559,0.0404,0.0420,0.0308">carne<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0954,0.0455,0.0278,0.0300"><expan><abbr>xpi</abbr><ex cert="medium">christi</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1249,0.0425,0.0313,0.0287">dese<supplied reason="lost" cert="medium">rere</supplied></w></l>
+<l n="3">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0119,0.0728,0.0546,0.0303"><supplied reason="lost" cert="medium">p</supplied>otuer<hi rend="ligature">un</hi>t</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0660,0.0720,0.0370,0.0346">q<hi rend="ligature">ua</hi>ndo</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1033,0.0755,0.0651,0.0268">indiuini<supplied reason="lost" cert="medium">tatis</supplied></w></l>
+<l n="4">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0121,0.1074,0.0226,0.0221"><supplied reason="lost" cert="medium">unitate</supplied>ate</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0356,0.1039,0.0588,0.0255">manser<hi rend="ligature">un</hi>t</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0944,0.1013,0.0448,0.0282">Adhuc</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1398,0.1090,0.0182,0.0218">ci<supplied reason="lost" cert="medium">tharam</supplied></w></l>
+<l n="5">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0114,0.1345,0.0322,0.0266"><supplied reason="lost" cert="medium">resp</supplied>ice</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0436,0.1417,0.0193,0.0197">ut</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0632,0.1334,0.0522,0.0298">musicu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1147,0.1366,0.0448,0.0271">melos</w></l>
+<l n="6">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0117,0.1640,0.0228,0.0284"><supplied reason="lost" cert="medium">dulc</supplied><hi rend="ligature">ibus</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0338,0.1643,0.0518,0.0314">reddat</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0828,0.1629,0.0310,0.0330">Tria</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1128,0.1744,0.0525,0.0295">pariter</w></l>
+<l n="7">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0109,0.1954,0.0264,0.0308"><supplied reason="lost" cert="medium">vide</supplied><hi rend="ligature">ntur</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0377,0.2002,0.0236,0.0282">ars</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0634,0.1996,0.0499,0.0290">manus</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1142,0.2018,0.0144,0.0237"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1292,0.1986,0.0406,0.0260">corda</w>.</l>
+<l n="8">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0117,0.2297,0.0434,0.0274">dictat</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0559,0.2299,0.0492,0.0282">manus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1025,0.2374,0.0548,0.0298">tangit</w>.</l>
+<l n="9">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0105,0.2594,0.0345,0.0298"><supplied reason="lost" cert="low">c</supplied>orda</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0401,0.2600,0.0613,0.0290">Resonat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1012,0.2600,0.0182,0.0356">q<hi rend="ligature">uo</hi>d</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1196,0.2552,0.0496,0.0420"><hi rend="ligature">auditur</hi></w>.</l>
+<l n="10">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0095,0.2993,0.0107,0.0205"><supplied reason="lost" cert="medium">ne</supplied>c</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0222,0.2921,0.0492,0.0306">manus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0699,0.2932,0.0394,0.0258">sonos</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1100,0.2951,0.0616,0.0242">reddunt</w>.</l>
+<l n="11">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0159,0.3216,0.0163,0.0292">cu<hi rend="ligature">m</hi></w>        
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0336,0.3270,0.0391,0.0250">corda</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0736,0.3211,0.0499,0.0399">op<hi rend="ligature">er</hi>ant<hi rend="ligature">ur</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1222,0.3248,0.0210,0.0266">Sic</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1433,0.3317,0.0252,0.0207">nec</w></l>
+<l n="12">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0079,0.3541,0.0166,0.0311"><supplied reason="lost" cert="low">n</supplied>ec</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0254,0.3541,0.0187,0.0266"><expan><abbr>scs</abbr><ex cert="medium">sanctus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0445,0.3559,0.0637,0.0335">susceper<hi rend="ligature">un</hi>t</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1086,0.3551,0.0433,0.0263"><expan><abbr>carne</abbr><ex cert="high">carnem</ex></expan></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1510,0.3596,0.0159,0.0199"><hi rend="ligature">et</hi></w></l>
+<l n="13">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0095,0.3862,0.0317,0.0266">filio</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0426,0.3878,0.0417,0.0311">parit<hi rend="ligature">er</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0828,0.3822,0.0501,0.0380">op<hi rend="ligature">er</hi>ant<hi rend="ligature">ur</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1317,0.3836,0.0385,0.0314">Sonu<hi rend="ligature">m</hi></w></l>
+<l n="14">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0075,0.4240,0.0100,0.0183"><supplied reason="lost" cert="medium">sol</supplied>a</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0189,0.4176,0.0625,0.0266">discutit</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0813,0.4176,0.0419,0.0284">carne<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1233,0.4184,0.0420,0.0271">solus</w></l>
+<l n="15">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0079,0.4495,0.0212,0.0223"><supplied reason="lost" cert="medium">accep</supplied>it</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0287,0.4455,0.0172,0.0287"><expan><abbr>T</abbr><ex cert="high">Titulus</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0461,0.4455,0.0335,0.0253">Post</w></hi>
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0825,0.4471,0.0343,0.0245"><expan><abbr>oct</abbr><ex cert="low">octum</ex></expan></w></hi>
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1179,0.4466,0.0436,0.0284"><expan><abbr>pent</abbr><ex cert="low">pentum</ex></expan></w></hi>.</l>
+<l n="16">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0086,0.4774,0.0611,0.0287">arttase<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0676,0.4763,0.0151,0.0268"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0837,0.4721,0.0130,0.0377">q<hi rend="ligature">ui</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0947,0.4779,0.0511,0.0266">manet</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1452,0.4806,0.0191,0.0215">in</w></l>
+<l n="17">
+    <gap reason="lost" extent="unknown" unit="character"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0075,0.5157,0.0109,0.0191"><abbr>e</abbr></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0189,0.5074,0.0350,0.0290"><expan><abbr>indo</abbr><ex cert="low">indeo</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0545,0.5138,0.0511,0.0226">manet</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1035,0.5144,0.0152,0.0191"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1196,0.5096,0.0175,0.0266"><expan><abbr>ds</abbr><ex cert="low">deus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1378,0.5165,0.0194,0.0183">in</w></l>
+<l n="18">
+    <gap reason="lost" extent="unknown" unit="character"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0086,0.5401,0.0194,0.0218"><abbr>ina</abbr></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0298,0.5343,0.0455,0.0284">oratio</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0792,0.5348,0.0193,0.0298">in</w></hi>
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0982,0.5322,0.0229,0.0362"><hi rend="ligature">eum</hi></w></hi>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1203,0.5354,0.0142,0.0282"><expan><abbr>a</abbr><ex cert="low">ait</ex></expan></w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1320,0.5338,0.0250,0.0316">Lo<supplied reason="lost" cert="medium">quere</supplied></w></l>
+<l n="19">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0077,0.5633,0.0184,0.0300"><supplied reason="lost" cert="medium">Domi</supplied>ne</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0319,0.5622,0.0352,0.0351">quia</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0639,0.5622,0.0525,0.0351">audit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1163,0.5675,0.0380,0.0284">servus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1529,0.5715,0.0180,0.0223">tu<hi rend="ligature">us</hi></w>.</l>
+<l n="20">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0068,0.5991,0.0149,0.0255"><supplied reason="lost" cert="medium">Domin</supplied>e</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0236,0.5965,0.0706,0.0292">nascentib<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0930,0.6002,0.0601,0.0279">tenebris</w></l>
+<l n="21">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0068,0.6342,0.0653,0.0292">iustici<hi rend="ligature">ae</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0727,0.6345,0.0201,0.0215">ut</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0940,0.6297,0.0394,0.0356">p<hi rend="ligature">er</hi>acto</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1340,0.6302,0.0250,0.0271">die<supplied reason="lost" cert="medium">i</supplied></w></l>
+<l n="22">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0060,0.6632,0.0385,0.0311"><supplied reason="lost" cert="medium">sup</supplied><expan><abbr>plicit</abbr><ex cert="medium">er</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0441,0.6664,0.0592,0.0324">agentes</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1042,0.6637,0.0284,0.0271">etia<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1329,0.6696,0.0380,0.0199">mane</w></l>
+<l n="23">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0065,0.6964,0.0632,0.0303">respicias</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0685,0.6978,0.0364,0.0237">uota</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1044,0.6917,0.0580,0.0295">soluente<hi rend="ligature">s</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1587,0.6906,0.0158,0.0324"><hi rend="ligature">Per</hi></w>.</l>
+<l n="24">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0061,0.7214,0.0487,0.0306"><supplied reason="lost" cert="medium">a</supplied>doremus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0555,0.7238,0.0534,0.0279">dominum</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1102,0.7206,0.0215,0.0335">qui</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1298,0.7212,0.0264,0.0324">fecit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1529,0.7217,0.0187,0.0290">nos</w>.</l>
+<l n="25">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0054,0.7568,0.0298,0.0295"><abbr>mitte</abbr></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0375,0.7554,0.0420,0.0300">domino</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0811,0.7557,0.0543,0.0300">intimore</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1333,0.7515,0.0102,0.0332"><hi rend="ligature">Is</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1413,0.7509,0.0201,0.0359"><abbr>Be</abbr></w>
+    <gap reason="lost" extent="unknown" unit="character"/>
+        </l>
+<l n="26">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0044,0.7895,0.0424,0.0271">Memor</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0464,0.7895,0.0194,0.0279">fui</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0657,0.7908,0.0130,0.0263">in</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0778,0.7842,0.0410,0.0343">nocte</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1187,0.7823,0.0403,0.0367"><expan><abbr>lect</abbr><ex cert="high">lectionis</ex></expan></w></hi>.
+        <hi rend="red"><num value="1"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1592,0.7791,0.0173,0.0417">i</w></num></hi>.</l>
+<l n="27">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0044,0.8224,0.0385,0.0239">UIR</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0433,0.8232,0.0427,0.0250">UNUS</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0869,0.8214,0.0214,0.0266">DE</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1049,0.8216,0.0643,0.0327">RAMATHA</w></l>
+<l n="28">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0051,0.8541,0.0243,0.0218"><supplied reason="lost" cert="medium">soph</supplied>in</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0305,0.8511,0.0196,0.0239">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0492,0.8519,0.0496,0.0268">monte</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1007,0.8530,0.0583,0.0234">effraim</w>.</l>
+<l n="29">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0033,0.8761,0.0303,0.0375">ei<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0340,0.8801,0.0595,0.0308">helcana</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0944,0.8814,0.0695,0.0290">ieroboam</w></l>
+<l n="30">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0149,0.9141,0.0342,0.0276">filii</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0497,0.9128,0.0412,0.0287">thau</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.0916,0.9155,0.0149,0.0253"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1081,0.9136,0.0578,0.0335">habuit</w></l>
+</ab>
+</div>
+         <div xml:lang="lat" type="textpart" subtype="revcolumn" n="2" xml:space="preserve">
+<ab>
+<l n="1">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1974,0.0136,0.0231,0.0266">ibi</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2207,0.0133,0.0280,0.0284">duo</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2496,0.0120,0.0294,0.0298">filii</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2783,0.0128,0.0342,0.0300">heli</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3116,0.0125,0.0447,0.0332">ophni</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3567,0.0136,0.0184,0.0234"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3748,0.0130,0.0445,0.0335">finees</w></l>
+<l n="2">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1981,0.0399,0.0709,0.0324">sacerdotes</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2720,0.0412,0.0287,0.0276"><expan><abbr>dni</abbr><ex cert="high">mini</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2993,0.0404,0.0154,0.0268"><expan><abbr>T</abbr><ex cert="high"> Titulus</ex></expan></w></hi>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3147,0.0449,0.0140,0.0271"><hi rend="ligature">Rex</hi></w></hi>
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3270,0.0399,0.0651,0.0311">Deus</w></hi>
+    <lb n="2"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3949,0.0372,0.0277,0.0290">omni</w>
+
+    <lb n="3" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1989,0.0792,0.0177,0.0207">um</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2179,0.0718,0.0170,0.0300">ex</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2331,0.0720,0.0434,0.0284">auditor</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2772,0.0718,0.0175,0.0263">est</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2954,0.0715,0.0252,0.0314">ipse</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3205,0.0712,0.0364,0.0298">misit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3580,0.0688,0.0496,0.0351">angelum</w>
+    <lb n="3"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4074,0.0657,0.0217,0.0322">su</w>
+
+    <lb n="4" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1996,0.1031,0.0187,0.0242">um</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2194,0.0984,0.0168,0.0295"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2327,0.1013,0.0289,0.0282">tulit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2613,0.1018,0.0431,0.0266">me</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3091,0.1042,0.0166,0.0239">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3261,0.0981,0.0427,0.0327">ouibus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3678,0.0978,0.0588,0.0343">patris</w></l>
+<l n="5">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1968,0.1292,0.0340,0.0330">mei</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2306,0.1353,0.0107,0.0253"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2426,0.1316,0.0333,0.0322">unxit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2760,0.1300,0.0455,0.0308">me</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3226,0.1292,0.0637,0.0330">unctione</w>
+    <lb n="5"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3872,0.1302,0.0361,0.0335">miseri</w>
+
+    <lb n="6" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1963,0.1624,0.0552,0.0364">cordie</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2529,0.1614,0.0345,0.0340">sue</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2869,0.1624,0.0149,0.0306">#</w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3018,0.1603,0.0669,0.0335">Dominus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3688,0.1667,0.0221,0.0311">qui</w>
+    <lb n="6"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3919,0.1603,0.0342,0.0380">eripu</w>
+
+    <lb n="7" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1977,0.2018,0.0126,0.0250">it</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2110,0.2002,0.0201,0.0242">me</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2322,0.1972,0.0158,0.0268">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2464,0.1935,0.0194,0.0311">ore</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2643,0.1927,0.0327,0.0316">leonis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2979,0.1962,0.0105,0.0253"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3102,0.1938,0.0163,0.0298">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3242,0.1972,0.0336,0.0287">manu</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3580,0.1932,0.0375,0.0354">bestie</w>
+    <lb n="7"/>"<w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3967,0.1909,0.0298,0.0369">libe</w>
+
+    <lb n="8" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1981,0.2233,0.0695,0.0343">rauit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2673,0.2222,0.0261,0.0340">me</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2940,0.2262,0.0170,0.0303">Et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3098,0.2257,0.0417,0.0303">unxit</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3531,0.2278,0.0504,0.0290"><expan><abbr>lectio</abbr><ex cert="high">lectionis</ex></expan></w></hi>.
+        <hi rend="red"><num value="2"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4030,0.2283,0.0193,0.0258">ii</w></num></hi>.</l>
+<milestone n="1" ed="REV" unit="Paragraph"/>
+<l n="9">
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1709,0.2496,0.0835,0.0829">Uenit</w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2503,0.2610,0.0335,0.0279">dies</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2821,0.2666,0.0200,0.0231">ut</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3026,0.2562,0.0828,0.0351">immolaret</w>
+    <lb n="9"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3846,0.2602,0.0527,0.0330">helcha</w>
+
+    <lb n="10" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2186,0.2977,0.0257,0.0226">na</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2462,0.2961,0.0501,0.0298">deditq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2961,0.2948,0.0585,0.0314">fenenne</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3550,0.2929,0.0447,0.0298">uxori</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3998,0.2921,0.0299,0.0292">sue</w></l>.
+<l n="11">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2000,0.3259,0.0152,0.0260"><hi rend="ligature">et</hi></w>        
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2142,0.3240,0.0545,0.0322">cunctis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2685,0.3216,0.0373,0.0330">filiis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3053,0.3206,0.0193,0.0335">ei<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3212,0.3264,0.0152,0.0242"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3361,0.3206,0.0429,0.0330">filiab<hi rend="ligature">us</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3772,0.3264,0.0476,0.0308">partes</w></l>
+<l n="12">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1961,0.3535,0.0375,0.0351"><hi rend="ligature">Annae</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2327,0.3554,0.0280,0.0324">aut<hi rend="ligature">em</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2616,0.3551,0.0417,0.0311">dedit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3040,0.3546,0.0420,0.0330">parte<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3459,0.3535,0.0324,0.0287">una<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3779,0.3509,0.0515,0.0335">tristis</w>.</l>
+<l n="13">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1995,0.3844,0.0191,0.0346"><hi rend="ligature">quia</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2186,0.3841,0.0385,0.0330">anna<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2578,0.3844,0.0760,0.0407">diligebat</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3363,0.3838,0.0270,0.0284"><expan><abbr>dns</abbr><ex cert="high">dominus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3623,0.3846,0.0299,0.0290">aut<hi rend="ligature">em</hi></w>
+    <lb n="13"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3918,0.3849,0.0327,0.0311">c<hi rend="ligature">on</hi>clu</w>
+
+    <lb n="14" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1982,0.4176,0.0364,0.0319">serat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2345,0.4187,0.0489,0.0282">uulua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2844,0.4160,0.0212,0.0282">ei<hi rend="ligature">us</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3046,0.4128,0.0743,0.0404">Affligebat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3788,0.4176,0.0226,0.0327"><hi rend="ligature">quoque</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4009,0.4187,0.0166,0.0263">ea<hi rend="ligature">m</hi></w></l>
+<l n="15">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1991,0.4471,0.0468,0.0316"><hi rend="ligature">ae</hi>mula</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2462,0.4466,0.0326,0.0258">eius</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2785,0.4482,0.0152,0.0229"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2939,0.4468,0.0737,0.0295">uehement<hi rend="ligature">em</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3665,0.4436,0.0651,0.0375">angebat</w></l>
+<l n="16">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1979,0.4774,0.0574,0.0271">intantu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2557,0.4827,0.0196,0.0207">ut</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2765,0.4790,0.0688,0.0295">expbraret</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3455,0.4777,0.0224,0.0319"><hi rend="ligature">quod</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3673,0.4777,0.0478,0.0338">c<hi rend="ligature">on</hi>clusit</w></l>
+<l n="17">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1988,0.5098,0.0257,0.0268"><expan><abbr>dns</abbr><ex cert="high">dominus</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2235,0.5064,0.0445,0.0306">uulua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2683,0.5082,0.0210,0.0284">ei<hi rend="ligature">us</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2891,0.5053,0.0331,0.0393">sicq<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3217,0.5077,0.0587,0.0279">faciebat</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3797,0.5043,0.0601,0.0412">p<hi rend="ligature">er</hi>singto<hi rend="ligature">s</hi></w></l>
+<l n="18">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1981,0.5377,0.0431,0.0268">annos</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2413,0.5377,0.0298,0.0316">Cu<hi rend="ligature">m</hi>q<hi rend="ligature">ue</hi></w>;
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2706,0.5383,0.0664,0.0266">redeunte</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3370,0.5412,0.0601,0.0242">tempore</w>
+    <lb n="18"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3967,0.5380,0.0345,0.0258">ascen</w>
+
+    <lb n="19" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1986,0.5675,0.0322,0.0274"><abbr>der<hi rend="ligature">un</hi>t</abbr></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2312,0.5665,0.0532,0.0332">templu<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2858,0.5659,0.0256,0.0284"><expan><abbr>dni</abbr><ex cert="high">domini</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3117,0.5646,0.0205,0.0303">sic</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3284,0.5691,0.0697,0.0330"><expan><abbr>puocabat</abbr><ex cert="high">prouocabat</ex></expan></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3982,0.5673,0.0247,0.0247">ea<hi rend="ligature">m</hi></w>.</l>
+<l n="20">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1956,0.5949,0.0391,0.0351">Porro</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2347,0.6005,0.0257,0.0247">illa</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2587,0.5968,0.0497,0.0303">flebat</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3082,0.6002,0.0145,0.0239"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3231,0.6053,0.0245,0.0215">non</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3490,0.6005,0.0599,0.0295">capiebat</w>
+    <lb n="20"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4089,0.6023,0.0152,0.0223">ci</w>
+
+    <lb n="21" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1982,0.6305,0.0371,0.0268">bum</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2347,0.6289,0.0384,0.0316">Dixit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2739,0.6244,0.0128,0.0417"><hi rend="ligature">go</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2865,0.6279,0.0587,0.0292">helcana</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3454,0.6340,0.0285,0.0226">uir</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3732,0.6279,0.0455,0.0298">suus</w>.</l>
+<l n="22">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1961,0.6606,0.0375,0.0322">Anna</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2354,0.6651,0.0275,0.0250">cur</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2629,0.6584,0.0340,0.0359">fles</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2954,0.6648,0.0424,0.0292">quare</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3389,0.6624,0.0130,0.0263">n<hi rend="ligature">on</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3520,0.6603,0.0685,0.0316">comedis</w>.</l>
+<l n="23">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1991,0.6943,0.0250,0.0311">qua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2236,0.6935,0.0310,0.0284">obre<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2539,0.6914,0.0576,0.0385">affligit<hi rend="ligature">ur</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3102,0.6975,0.0235,0.0253">cor</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3338,0.6917,0.0454,0.0316">tuu<hi rend="ligature">m</hi></w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3807,0.6877,0.0459,0.0409">Nuqd<hi rend="ligature">Numquid</hi></w></l>
+<l n="24">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1991,0.7273,0.0112,0.0223">n<hi rend="ligature">on</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2098,0.7310,0.0266,0.0322">ego</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2359,0.7262,0.0313,0.0260">sum</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2685,0.7281,0.0496,0.0239">melior</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3184,0.7283,0.0338,0.0247">tibi</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3520,0.7249,0.0292,0.0308">qua<hi rend="ligature">m</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3807,0.7275,0.0443,0.0234">decem</w></l>
+<l n="25">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1979,0.7570,0.0426,0.0279">filii</w>.
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2366,0.7515,0.0214,0.0322"><expan><abbr>T</abbr><ex cert="high">Titulus</ex></expan></w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2580,0.7605,0.0138,0.0266">R<hi rend="ligature">ex</hi></w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2739,0.7541,0.0571,0.0322">Dominus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3317,0.7594,0.0194,0.0295">qui</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3539,0.7533,0.0494,0.0362">eripuit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4012,0.7573,0.0214,0.0274">me</w></l>
+<l n="26">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1993,0.7924,0.0144,0.0229">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2133,0.7847,0.0289,0.0316">ore</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2420,0.7860,0.0860,0.0303">leonis</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3275,0.7913,0.0135,0.0221">et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3406,0.7847,0.0201,0.0295">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3567,0.7873,0.0377,0.0295">manu</w>
+    <lb n="26"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3977,0.7820,0.0238,0.0319">be</w>
+
+    <lb n="27" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1981,0.8169,0.0609,0.0356">stie</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2580,0.8153,0.0597,0.0322">liberauit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3177,0.8169,0.0175,0.0287">me</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3371,0.8158,0.0284,0.0348">ipse</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3646,0.8190,0.0196,0.0266">me</w>
+    <lb n="27"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3853,0.8131,0.0340,0.0385">eripi</w>
+
+<lb n="28" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1991,0.8474,0.0475,0.0292">et</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2473,0.8482,0.0175,0.0284">de</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2629,0.8442,0.0601,0.0338">manibus</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3217,0.8445,0.0947,0.0327">inimicorum</w></l>
+<l n="29">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1981,0.8767,0.1021,0.0330">meorum</w>.
+        <hi rend="red"><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2968,0.8785,0.0138,0.0266">#</w></hi>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3103,0.8751,0.0622,0.0359">Misit</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3727,0.8780,0.0299,0.0290">deus</w>
+    <lb n="29"/><w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.4028,0.8804,0.0189,0.0271">mi</w>
+
+    <lb n="30" break="no"/>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1975,0.9083,0.0678,0.0367">sericordiam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2644,0.9102,0.0308,0.0311">suam</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.2954,0.9083,0.0158,0.0306"><hi rend="ligature">et</hi></w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3095,0.9062,0.0609,0.0404">ueritatem</w>
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.3713,0.9067,0.0492,0.0420">suam</w></l>
+<l n="31">
+        <w facs="urn:cite:perseus:miscellanyimgs.0ZpkN4QLqU5@0.1904,0.9421,0.0506,0.0290">#</w>
+            <gap reason="illegible" extent="unknown" unit="character"/>
+        </l>
+</ab>
+</div>
+      </body>
+  </text>
+</TEI>
+
